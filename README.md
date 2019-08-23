@@ -1,6 +1,7 @@
 # Gameboy Boot Sequence Generator
 Creates a GIF of Text that looks like a Game Boy Color Boot Sequence.
 Should be Fine to Use for Normal People but Mainly Programmers as an FYI.
+All Dowloads are Either under Sources or in the Releases Tab
 
 # Instructions
 - Download the Processing Program if One hasn't already
